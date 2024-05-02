@@ -12,5 +12,5 @@ Terminale "npm install" yazarak gerekli modülleri indirin.
 
 Terminale "npm start" yazarak uygulamayı çalıştırın.
 
-Uygulamayı durdurmak için terminale gelip klavyeden "CTRL + C" tuşlarına basın.
+Uygulamayı durdurmak için terminale tıklayıp klavyeden "CTRL + C" tuşlarına basın.
 
