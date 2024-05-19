@@ -1,12 +1,12 @@
-# Kaizen-Case-Study
+# Daha Daha App
 
-Kaizen-case dosyasını rar dan çıkartın.
+DahaDaha dosyasını rar dan çıkartın.
 
-Çıkartılan kaizen-case dosyasını visual studio code ile açın.
+Çıkartılan DahaDaha dosyasını visual studio code ile açın.
 
 Yeni bir terminal oluşturun.
 
-Eğer doğru dizinde değilseniz "cd kaizen-case" yazarak dizini seçin.
+Eğer doğru dizinde değilseniz "cd DahaDaha" yazarak dizini seçin.
 
 Terminale "npm install" yazarak gerekli modülleri indirin.
 
